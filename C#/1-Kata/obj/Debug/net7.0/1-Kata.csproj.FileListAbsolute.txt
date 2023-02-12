@@ -1,0 +1,15 @@
+/home/carlos/Documents/Projects/C#/1-Kata/bin/Debug/net7.0/1-Kata
+/home/carlos/Documents/Projects/C#/1-Kata/bin/Debug/net7.0/1-Kata.deps.json
+/home/carlos/Documents/Projects/C#/1-Kata/bin/Debug/net7.0/1-Kata.runtimeconfig.json
+/home/carlos/Documents/Projects/C#/1-Kata/bin/Debug/net7.0/1-Kata.dll
+/home/carlos/Documents/Projects/C#/1-Kata/bin/Debug/net7.0/1-Kata.pdb
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.csproj.AssemblyReference.cache
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.AssemblyInfoInputs.cache
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.AssemblyInfo.cs
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.csproj.CoreCompileInputs.cache
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.dll
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/refint/1-Kata.dll
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.pdb
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/1-Kata.genruntimeconfig.cache
+/home/carlos/Documents/Projects/C#/1-Kata/obj/Debug/net7.0/ref/1-Kata.dll
